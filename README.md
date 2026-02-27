@@ -1,4 +1,4 @@
-<img width="1351" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c68739-48c2-4357-9e8b-2670a199f44a" /># Plant-Species-Image-Classification
+# Plant-Image-Classification
 
 ---
 
